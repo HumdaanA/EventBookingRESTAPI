@@ -8,8 +8,8 @@ This is a personal project designed to build a robust Event Booking REST API usi
 - **GET**: Retrieve a list of available events
 - **GET**: Fetch details of a single event
 - **POST**: Create a new bookable event (authentication required)
-- **PUT**: Update an existing event (authentication required)
-- **DELETE**: Remove an event (authentication and ownership required)
+- **PUT**: Update an existing event (authentication AND ownership required)
+- **DELETE**: Remove an event (authentication AND ownership required)
 
 ### User Management:
 
