@@ -1,7 +1,5 @@
 # Event Booking REST API
 
-## Overview
-
 This is a personal project designed to build a robust Event Booking REST API using GoLang. The application supports various event-related functionalities, including user registration, event management, and secure authentication. It incorporates several advanced features to ensure scalability, security, and maintainability.
 
 ## Features
